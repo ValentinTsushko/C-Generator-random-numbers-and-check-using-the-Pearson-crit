@@ -1,4 +1,4 @@
-#include "main_clases.cpp"
+#include "main_classes.cpp"
 
 bool compare(double a, double b )
 {
